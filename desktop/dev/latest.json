@@ -1,15 +1,15 @@
 {
-  "version": "0.1.31",
-  "notes": "Automated dev desktop build from 38901f5: Fix desktop auth tabs and media permissions (#1083)",
-  "pub_date": "2026-07-01T17:38:43.911Z",
+  "version": "0.1.32",
+  "notes": "Automated dev desktop build from 393f4e1: Add Yandex and VK ID OAuth login",
+  "pub_date": "2026-07-01T19:20:39.072Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHdKcVA5Q3R3S2VRS0VCaEphbGw0ZHlzVWtGbWtxS1YwcWxmN08zNFNBdWdEVkdDRW4rdVoveHZyT2tBSlJHaEJEelo1ZVhjTmc2RFpGQmZ4M2N1bndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTI3NTAzCWZpbGU6U2VuZHkgRGV2XzAuMS4zMV9hbWQ2NC5kZWIKWXl5VGFoTm1pdDlQcFcyRzBRa1dVSXY5Z3Y2T0hYbFZqY01TVzNtWElpMDFqYm0rMWdaTTdXVCtEOWx6eVRSV2lnWXJRRXZQeTFSRW92U3ZMVXZRQVE9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.31/Sendy.Dev_0.1.31_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHhkVjhLTnZXRi95ZkdwVmpiWTlVblZGOU5vekcyL25DSUljeXhYZmFWc2xOQklsYnZTUHRhNWdpQTNlc2lOR0orWUd5MVhGRWtkSDNFZEV2WnM0eEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTMzNjIwCWZpbGU6U2VuZHkgRGV2XzAuMS4zMl9hbWQ2NC5kZWIKaFBsSmswT2swNHFqc3ZLeXoydXpVcXZaV2xwRC9iZmFzSHlZYzdrSUxrcGxBUzhzWEZUS3UxcVM3citQQ3VOQzN0TmJkRndldGxIdkJWV2pLb1VvRHc9PQo=",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.32/Sendy.Dev_0.1.32_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDQvUGlOVEpnQ2J3NVJsekh2ZiswSUk5cDN0cmlJVDN2elFpYWV3ZklPeUNQQUx4eDFObUFrSnNuQ3BLVWhGVDdOanlleDNMcklIZiszVTZwQ2JFZ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTI3Mzg3CWZpbGU6U2VuZHkgRGV2XzAuMS4zMV94NjQtc2V0dXAuZXhlCnRlWUdBYzZHUy80QXkxSU1CU1BHNXN0VVU3REk1R21QVnl1VXlGaVBBVG52ZFh0eU11ZXQxNk1ocDllS3FRNUpGcFBUbTFCaWRHRGZKZjYxbDZaN0NnPT0K",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.31/Sendy.Dev_0.1.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhMU3BDZk9Zcy9Cclk0eldzeWZmaC9WODYzUkNBOEdNTWEyalFFUStON2hkcDdkSFllTytFeGlpMDhYTkNoSFVvOXZJR0JOQ0lXaVpTWWNiWUhtNEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTMzNTA5CWZpbGU6U2VuZHkgRGV2XzAuMS4zMl94NjQtc2V0dXAuZXhlCmdRejI5SzN1Q3NqeGpsYXlEK1RudlBjZ2s1Q01pU3UwTTQ3dmxHOWVxQ214dU5uSHlsTEVmNmJ4MkNyWnRDcysrZm1RSjhEVmxxWlh3SWlMdjZ5ZERBPT0K",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.32/Sendy.Dev_0.1.32_x64-setup.exe"
     }
   }
 }
