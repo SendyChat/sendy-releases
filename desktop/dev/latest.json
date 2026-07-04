@@ -1,15 +1,15 @@
 {
-  "version": "0.1.119",
-  "notes": "Automated dev desktop build from a1aa986: Make admin audit rows actionable",
-  "pub_date": "2026-07-04T18:35:19.967Z",
+  "version": "0.1.120",
+  "notes": "Automated dev desktop build from f2331ca: Add admin staff row quick actions",
+  "pub_date": "2026-07-04T18:56:38.749Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHdwbmd2MWM0bnd1RWV2eC91ZjZvRW9vTVYrUGcxZFB2dE9DYmVmMWRXRUROanlOdDF2TGhneXArRkpQVm9GYWlRcm9XOFNKT2YyMUxtOG9CNE5Na2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTkwMDkzCWZpbGU6U2VuZHkgRGV2XzAuMS4xMTlfYW1kNjQuQXBwSW1hZ2UKQVZROGYyWEVVb3dGSDNJMFQxN3dFYWh2YkduM28zci8vZFE1NlBFMm9ZcWtqeG9DOXFHZGdWM1N6M3JXcUY3bFo5bjk5TUZNbTFQMlE3QTU5bUc2QWc9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.119/Sendy.Dev_0.1.119_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHdhQmFFdlg5ZVlRcW40UzVCWkZrckxKejdKMXU3bUdJSHJhZE94dU51eEJpK1p1bitWUlc2WmdMWTBjWFVJMXdhRmh1YUsyYzE4TXJ3NDlNSnlJQ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTkxMzY3CWZpbGU6U2VuZHkgRGV2XzAuMS4xMjBfYW1kNjQuQXBwSW1hZ2UKRkVPajBDb016UVg3VDFOdW9mUEdiVDllcTE3eUxHUUNhZjkwL2FxZlE4OHpVcVdNU0pwVDhPWWgvOWFhVVo5d2FKVnl2SlZ2V3A3bXVSRnhMdUJuQUE9PQo=",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.120/Sendy.Dev_0.1.120_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNCs5bjBTeW1YVjN5L1h2enFQRDNLVmEvRXh3ODlCNDZPWHJuSFovbFR1NTY3Wk1oQXpkMU5DRytBSTB4Mm5BWXBNK0E1VGY1bENBZ3NpM255dnlBZ1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTg5ODU5CWZpbGU6U2VuZHkgRGV2XzAuMS4xMTlfeDY0LXNldHVwLmV4ZQpidFpKdVJoNjFhNVZkUUlra3ptdStTYkZsU2dSTTF6WWtSclc0Snd2ajlFUElHVGk3M0VKSG1sUTQvMzRLZUtJOVJxREhmQy9TQm9saDVLVWUweHJBZz09Cg==",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.119/Sendy.Dev_0.1.119_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDFPM2RVVnRYV0tSM25OdC9TZTFGZnh2a2ptN1dRS1VaRkVRWkp4Y1JMYVR0NzR3Rzl1ZE5GVVYwNUFhR3krRlliVTBrWVloNEZtTWZiZytkQlZ6S2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTkwOTgwCWZpbGU6U2VuZHkgRGV2XzAuMS4xMjBfeDY0LXNldHVwLmV4ZQphVjZFVFJYaUVmcXJNVkJnRjBtRzY2Qzlkcnlxa3VjbzZnQmZpSC9HYzhnMHcwZkFFK2FkNElRQmE5NDlJellaSGV5ZkY3eTRMTG15R29qM3VTWXBEZz09Cg==",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.120/Sendy.Dev_0.1.120_x64-setup.exe"
     }
   }
 }
