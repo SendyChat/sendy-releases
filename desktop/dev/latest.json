@@ -1,15 +1,15 @@
 {
-  "version": "0.1.100",
-  "notes": "Automated dev desktop build from 6e39ffc: Merge pull request #1224 from SendyChat/issue-1223-admin-audit-target-fallback",
-  "pub_date": "2026-07-04T10:14:12.702Z",
+  "version": "0.1.101",
+  "notes": "Automated dev desktop build from 32edc5b: Merge pull request #1226 from SendyChat/issue-1225-admin-cases-user-context",
+  "pub_date": "2026-07-04T10:34:01.599Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNCtJUjRRcmdDWlVmRlVmV1hRbUpGYytKRzd1VWhnelJkY2xMRi9MY0NQb01tYUV0OUI1clJwT0JHS2twYnpSN2VlQzlrblE0azI0Ti84dmMvdktvaHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTYwMDI0CWZpbGU6U2VuZHkgRGV2XzAuMS4xMDBfYW1kNjQuQXBwSW1hZ2UKWFVSc1hrNTVUSjNOUUJIYWV1aXNRSXpyNS9lUUlZdko1STVwN3RDWHg0TFF5YUF3SW1QZGprV041dXpvR3ovUjRSdFlLanRTVWF3OUcxbmlJQnlPRHc9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.100/Sendy.Dev_0.1.100_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhIckE0U0x6RVo2NkcxQTVQeDRjTDFWQkhnSkVZWHh5dmZDN2FtTlMwME54ditNOWNtZCsyQjVEdXBJVTRhS2NuM0lGVjJZbDJRZ1pVLzhIOWpIK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTYxMjEyCWZpbGU6U2VuZHkgRGV2XzAuMS4xMDFfYW1kNjQuQXBwSW1hZ2UKeEJVdDBaR0p2TCtvNTVMMm9uOEtrWVNrbGJqR0J0U20rMlBvM1BTaUJJTWVTMVNUdVlqTHUwejIwdGQ2VmUvd2xTUFo5d1dBZHV6UERtK1VxOWxpQnc9PQo=",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.101/Sendy.Dev_0.1.101_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDRvZVJTTWJZUHhhbTNXNXZWRUxPM2NMTEo2ZHJOYUFqZ3VlZE8zSnNNd001QnI0eUtGb2VhMTFyalMyU2Z4SGhDOEVHa2puQXc3eitxMnNUV0E3SkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTU5NzQzCWZpbGU6U2VuZHkgRGV2XzAuMS4xMDBfeDY0LXNldHVwLmV4ZQprY1h4NTVWSithQ2lQcE1hd1JudXBuZ3BzdVJpUWVzMUlwRVFjWjJlUjZpWkQ3Y1R1alNmRkdkelJ5VzZYVDBqZWVzbzFwekNTWFVJNjd5TllBaUtDQT09Cg==",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.100/Sendy.Dev_0.1.100_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhoclZJZmY3UUtiNzh2bWRJQUk5Tzd2NmxqY0k3QzExajZWTzRIa1EyM29XVFF5RjVqSmt3SXZwTXo0a0EzdkcwNU1KZWZLVkQyQS85OFJZY1pGNlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMTYwOTQzCWZpbGU6U2VuZHkgRGV2XzAuMS4xMDFfeDY0LXNldHVwLmV4ZQpBUzhFVWx0SjBKUStUaEV3UndOVGJjMXk2L0NoVW5rNWN4blFsZGE0dFpYWDN4c2lIS0czMlFHYTgza1ZzSnk5a3hmdlJkVUZGak5XaDRCdjRuSEdEUT09Cg==",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.101/Sendy.Dev_0.1.101_x64-setup.exe"
     }
   }
 }
