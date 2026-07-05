@@ -1,15 +1,15 @@
 {
-  "version": "0.1.143",
-  "notes": "Automated dev desktop build from 3a18cf4: Add admin overview KPI command center",
-  "pub_date": "2026-07-05T04:04:34.935Z",
+  "version": "0.1.144",
+  "notes": "Automated dev desktop build from 4082603: Add admin support queue plan",
+  "pub_date": "2026-07-05T04:28:49.261Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDdWQXlIamZWRWNPbTY5Rnkxd1ppQVE0N1lLRENSYmZtb01uRXVFVVZLOFppdmZYYXY1dDhrV0hxN09qY0Nqc1luWHZTR2NrQ0U4T1BhSm45L1oyYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjI0MTM3CWZpbGU6U2VuZHkgRGV2XzAuMS4xNDNfYW1kNjQuQXBwSW1hZ2UKcXpPTFRyd1RZYmNTSUV4OWplOUZ2Y21nVHJMQ1ZBYUk3c0V0SUdFMXEvZmtVSmxPU2h0M3FuK2hyK1U1WWdkRS92WVdzTkM0MjM0Mi8vOFlMZEEzREE9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.143/Sendy.Dev_0.1.143_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDZZMlo4OFgvcG5zMUJJbkRyWXRsUEJ3eThwZVhlM0xMSXZIemtMNTdtQ3l2S21hLzV5L1phbVYrem5zQUZBMlByQU9Qa2J4UnkvVlJnZzVsUDdJVkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjI1NTAzCWZpbGU6U2VuZHkgRGV2XzAuMS4xNDRfYW1kNjQuQXBwSW1hZ2UKaTJHRWJMQlU5L1hCMWhzdVRJWVYvcVFKTGQwSUlMSGQrWEJvNUJhM3VNZzkra0dHWHhwbklCa2hjdUpVbHJKMHh6eFFteDJWT1JnNU1LNmJLZjhuRGc9PQo=",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.144/Sendy.Dev_0.1.144_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDdxVXJZRnIvVHpTK0ZtL3ZIOGlzMTJPLzlxaWFJRjBYUEMyZWpnUmZZR0wwMmpCajhyeWN5RnpIUC9XL050UGtQcXBsVW5nUXlrbDNUZURKWnE1QncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjIzODQ2CWZpbGU6U2VuZHkgRGV2XzAuMS4xNDNfeDY0LXNldHVwLmV4ZQpnWU9DdUl2UVhCM2M3L3d5eFhGMWZxNHpNWW9kTjJPZXIxRncyVkZ4aFI2emZXLzllUXFwUWlhWDdwcXhQSzRsYVBiZFdrSmw3MHh1MXpuYjd0ZTJDZz09Cg==",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.143/Sendy.Dev_0.1.143_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDV4bVRhTnNsMzl1U1JQRlkzekxyQzJic3ZkTUhyeVpGRmRGTnJ2SUMvUm9BRlg5SVhEYjRra0NtZU9kVEVpUEdLTVgxcXE4WTRwdkx3MnlFTnFoemdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMjI1MTg5CWZpbGU6U2VuZHkgRGV2XzAuMS4xNDRfeDY0LXNldHVwLmV4ZQp4bDF2cndHUEk1dXhTb0RjTHVlaWtCSnpSN2kxOW0zalppMnFkeHZwZXo2MTZLVU5lQlgwYlFrNW9BWkMzenUwRlI0aVIzS1hVa016Qzc2VzE5cjZBUT09Cg==",
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.144/Sendy.Dev_0.1.144_x64-setup.exe"
     }
   }
 }
