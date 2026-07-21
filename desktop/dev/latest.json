@@ -1,31 +1,53 @@
 {
-  "version": "0.1.2069",
-  "notes": "Automated dev desktop build from c93d573: Merge pull request #1445 from SendyChat/issue-1444-deploy-fetch-retry",
-  "pub_date": "2026-07-21T08:45:02.000Z",
+  "schema": "sendy.desktop-updater-manifest/v2",
+  "version": "0.1.2070",
+  "notes": "Automated dev desktop build from bac0c47: feat(desktop): add signed public updater mirror (#1447)",
+  "pub_date": "2026-07-21T10:31:08.000Z",
+  "channel": "dev",
+  "tag": "desktop-dev-v0.1.2070",
+  "source_sha": "bac0c47f07dc1f64bc7cc848f1b5867adedc0792",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhuRGZHalVTdFhxNG9xcEpKRzZiMHR0bXhrc0xydStvS1kxNU9EbElHa0tFa0FWVHVMbVFVSkJtYUtHRHZ0b2Z6bVdSSCtLTUtMclZaTndsSHdvQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI1MjU5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X2FtZDY0LkFwcEltYWdlCnJ2WEQzZk1CR01RbDh3NkFUK2N0TENhT2F5azJxa3lDWUhTNGFyY0d5OExXbWUvbWdYM0VYTFhTY3ZyNEFJb29ianhxWUV4cFF0MFBycmlabDNaWkF3PT0K",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_amd64.AppImage"
+      "format": "appimage",
+      "sha256": "49188f539f374f3284974c2a45ce1700c33507a7a4214466129739e77e2b0a39",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNCtpb3BMdmFBYVYrbk43Zmo2UlEyank1bjFTeGo4NUY0MU85MXQrdnZabmZ2TityaVpYYm0rajdVVDNyNTRNVkl4SGlEeUVUKytVdHR1VXdOZXFrNndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0NTM5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX2FtZDY0LkFwcEltYWdlCnZiTTBzV2FlSk0yRThCRld0RVlHZURhNzBOTXkzU0o2MEJLcnJGVW5DandEUVZXTkwrSHZER25DZGlaeE92Z3lCOGZKdEtuR2sxRUtndS9TK3A0QUFBPT0K",
+      "size": 81222136,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhuRGZHalVTdFhxNG9xcEpKRzZiMHR0bXhrc0xydStvS1kxNU9EbElHa0tFa0FWVHVMbVFVSkJtYUtHRHZ0b2Z6bVdSSCtLTUtMclZaTndsSHdvQmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI1MjU5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X2FtZDY0LkFwcEltYWdlCnJ2WEQzZk1CR01RbDh3NkFUK2N0TENhT2F5azJxa3lDWUhTNGFyY0d5OExXbWUvbWdYM0VYTFhTY3ZyNEFJb29ianhxWUV4cFF0MFBycmlabDNaWkF3PT0K",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_amd64.AppImage"
+      "format": "appimage",
+      "sha256": "49188f539f374f3284974c2a45ce1700c33507a7a4214466129739e77e2b0a39",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNCtpb3BMdmFBYVYrbk43Zmo2UlEyank1bjFTeGo4NUY0MU85MXQrdnZabmZ2TityaVpYYm0rajdVVDNyNTRNVkl4SGlEeUVUKytVdHR1VXdOZXFrNndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0NTM5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX2FtZDY0LkFwcEltYWdlCnZiTTBzV2FlSk0yRThCRld0RVlHZURhNzBOTXkzU0o2MEJLcnJGVW5DandEUVZXTkwrSHZER25DZGlaeE92Z3lCOGZKdEtuR2sxRUtndS9TK3A0QUFBPT0K",
+      "size": 81222136,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDhEWmRnZll0SFBpVXErbG9IYUI0QWZ3Z1E1eDJ2ZGQzT0RBcTh0R3QyWUtaQXFhSklRZkJlazV2cUR1RklPSEZnQy9HYldBYkhQOUZjTnN3N3B2TXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI1MjU5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X2FtZDY0LmRlYgpHWi9LcWE0SGhUVjhZZngxZGFDd0N0eUR6bytEbEdNL3NJTDJ5ZVdHNlZZcis4SUIwUytLUDRoc3JSdnphTld1eWhxS0F0VThET2pEcVJKMlFkRU5CUT09Cg==",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_amd64.deb"
+      "format": "deb",
+      "sha256": "ce45438c2384aee4f17318b3814dce2e8086e2d5d5f95c257f604394ea4bd144",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHdsVzU3U0JlbXNXQUg5SG1odHp5eHloMDRBdGdRODNCb3lZbVJaWHo4cmhKbFBUallZWk5Vck5XdWhNL1hQUlVFcDFEZGJsOUgrQ1ZJN1hsOWw3YXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0NTM5CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX2FtZDY0LmRlYgpXb1VVbTREVHNnajZxMWNLMzdCek1Nem9URENUNWZzWGZtYjFCYWJvdXlqUk95bVVKMEZDNW1RMW8zT0pyTUltQ0NUamNVaHNYbi9mMnhabVRRTDRBQT09Cg==",
+      "size": 6984614,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHhNUXhsenNKSm9BTjNVSE11NUo5Q3pmME5OV09zc05qc2M0U2ErR2VpcWw5cTZFTmdwT1ZOUkVFMDNiNlFHMEVGMUp5WGQyWGtURFBzd2tmd3pPTlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI0Nzg3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X3g2NC1zZXR1cC5leGUKQk5wVEdQNTRCSyt1Vmw1RFNKeEJhdEV3NmtXTGszVW9kTFRPUVRiaUQ4RFhheTZ1QzFhUnpsaW9WNnNYME5NV29PZlpUQVhCWkp0S2lMT2hGWEcwQkE9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_x64-setup.exe"
+      "format": "nsis",
+      "sha256": "2fef4b1f0586b7bd062aeda65f96264f3a2cf81721af2ebaf95b4c72a00bf5d6",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDNHWGxsK1lOTld0ZTlIRk5DQ1NHM3ZCTzJvTEx5R3hrNkprRFYyOE4wN3dyemwrYXQ5ZWUyeUVEekMvSXVxVytSMDJIRVRITU9BbHYzSXg2NXptbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0MTM3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX3g2NC1zZXR1cC5leGUKYlBHREpGSzh6bW5TNzVCb2NGZHlsMy9pRU82VnRGZE80QW5sU2pWZTg1TkxCQTZ6ZnpvYkhGY0FOZG16V1pJd0hCYzBVZ2pXUlpQSWM4cXJXRFh6Q0E9PQo=",
+      "size": 4057638,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHhNUXhsenNKSm9BTjNVSE11NUo5Q3pmME5OV09zc05qc2M0U2ErR2VpcWw5cTZFTmdwT1ZOUkVFMDNiNlFHMEVGMUp5WGQyWGtURFBzd2tmd3pPTlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI0Nzg3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X3g2NC1zZXR1cC5leGUKQk5wVEdQNTRCSyt1Vmw1RFNKeEJhdEV3NmtXTGszVW9kTFRPUVRiaUQ4RFhheTZ1QzFhUnpsaW9WNnNYME5NV29PZlpUQVhCWkp0S2lMT2hGWEcwQkE9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_x64-setup.exe"
+      "format": "nsis",
+      "sha256": "2fef4b1f0586b7bd062aeda65f96264f3a2cf81721af2ebaf95b4c72a00bf5d6",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNDNHWGxsK1lOTld0ZTlIRk5DQ1NHM3ZCTzJvTEx5R3hrNkprRFYyOE4wN3dyemwrYXQ5ZWUyeUVEekMvSXVxVytSMDJIRVRITU9BbHYzSXg2NXptbHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0MTM3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX3g2NC1zZXR1cC5leGUKYlBHREpGSzh6bW5TNzVCb2NGZHlsMy9pRU82VnRGZE80QW5sU2pWZTg1TkxCQTZ6ZnpvYkhGY0FOZG16V1pJd0hCYzBVZ2pXUlpQSWM4cXJXRFh6Q0E9PQo=",
+      "size": 4057638,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNCtITStlcHp4M0FYUkxiTG1CWDc1UjVSRE1pN1pYMnYwcjBZOGFqeE9uT01mL2grUE1qcmlrWXlUeHFkMlc0Tlg1YWo0QncycFp4QWF5M09ocWlMemc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjI0Nzg3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDY5X3g2NF9lbi1VUy5tc2kKQzlJZXZLd2pKN2x2Z0pod1krT29scERScmJUVFhTMkkrdVdQTG1NOW5yYlh1a3B3c1I2a21KdEV3ejdPT0F1MHVLRVBzaDZyYmY4akhJRytvMjZXQnc9PQo=",
-      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2069/Sendy.Dev_0.1.2069_x64_en-US.msi"
+      "format": "msi",
+      "sha256": "96ef74d1f5893f90706e47f3be076467b097223898c033cbcc7465271d5ea1c0",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUN1RNS09WMlVaNHowTTJsaXUvbXFUdUpzWXBtSTJEcEpxZFoxbGIwOWQ0ZTZXWTZwRW40cmtUUTBvS2txWUhreER4aVhqYlV3NTcyK0NWVjc1ZEE0Um1WWnE2Z1ZLYkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjM0MTM3CWZpbGU6U2VuZHkgRGV2XzAuMS4yMDcwX3g2NF9lbi1VUy5tc2kKN1oyY3QwWUJHM1dRTzZkVmlSMTJFb3U5cVF0UmNzYTNSSVhsZTMrT21pRjA1Y25ySDlPTjBNaXdDMHhrSkhSTHRYYUZWTzV2bEhKRTVpVVZvMmNmQlE9PQo=",
+      "size": 5500928,
+      "url": "https://github.com/SendyChat/sendy-releases/releases/download/desktop-dev-v0.1.2070/Sendy.Dev_0.1.2070_x64_en-US.msi"
     }
   }
 }
